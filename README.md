@@ -41,6 +41,12 @@ Countries like Australia show a higher recovery-to-death ratio → effective con
 
 Despite recovery, active cases remain nearly 48%, posing continued risks.
 
+📷Preview
+
+<img width="2090" height="1231" alt="image" src="https://github.com/user-attachments/assets/c3a8961d-ca55-4765-8136-0e8ee91eab30" />
+<img width="2201" height="1260" alt="image" src="https://github.com/user-attachments/assets/3ab01d9f-a07a-47ff-a799-c05574c1c7dd" />
+
+
 🚀 How to Use
 
 Download this repository (click the green Code button → Download ZIP).
